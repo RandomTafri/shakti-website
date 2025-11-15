@@ -1,0 +1,69 @@
+<svg width="160" height="80" viewBox="0 0 160 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background rounded rectangle (dark) -->
+  <rect x="4" y="8" width="152" height="64" rx="14" fill="#1F2933" stroke="#A3B18A" stroke-width="1.6" />
+
+  <!-- ========== TOP ICON STRIP ========== -->
+
+  <!-- Tap icon (left) -->
+  <!-- Vertical body -->
+  <rect x="22" y="20" width="8" height="14" rx="2" fill="#1F2933" stroke="#F8F5F0" stroke-width="1.3" />
+  <!-- Horizontal spout -->
+  <path d="M30 25 H42 V28 H34" stroke="#F8F5F0" stroke-width="1.3" stroke-linecap="round" stroke-linejoin="round" />
+  <!-- Tap knob -->
+  <circle cx="26" cy="19" r="3" fill="#A3B18A" stroke="#F8F5F0" stroke-width="1.1" />
+  <!-- Water drop -->
+  <path
+    d="M38 28.5 C39.3 30 40 31.4 40 32.7 C40 34.3 38.9 35.5 37.4 35.5 C35.9 35.5 34.8 34.3 34.8 32.7 C34.8 31.4 35.5 30 36.8 28.5 Z"
+    fill="#A3B18A"
+    stroke="#F8F5F0"
+    stroke-width="1"
+  />
+
+  <!-- Paint brush icon (center) -->
+  <!-- Handle -->
+  <rect x="74" y="18" width="6" height="14" rx="3" fill="#1F2933" stroke="#F8F5F0" stroke-width="1.2" />
+  <!-- Ferrule -->
+  <rect x="72.8" y="32" width="8.4" height="4" rx="1.5" fill="#A3B18A" stroke="#F8F5F0" stroke-width="1.1" />
+  <!-- Bristles -->
+  <path
+    d="M73 36 H81 C80.6 38.2 79.4 39.8 77.8 40.4 C76.2 41 74.6 40.6 73.4 39.4 C72.6 38.6 72.2 37.6 73 36 Z"
+    fill="#F8F5F0"
+  />
+
+  <!-- Door handle icon (right) -->
+  <!-- Backplate / rose -->
+  <rect x="114" y="20" width="7" height="18" rx="3.5" fill="#1F2933" stroke="#F8F5F0" stroke-width="1.2" />
+  <!-- Handle bar -->
+  <path
+    d="M121 27 H134 C135.1 27 136 27.9 136 29 C136 30.1 135.1 31 134 31 H121"
+    fill="#A3B18A"
+    stroke="#F8F5F0"
+    stroke-width="1.3"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  />
+  <!-- Small keyhole suggestion -->
+  <path
+    d="M117.5 34.3 C118.1 34.3 118.6 34.8 118.6 35.4 C118.6 36 118.1 36.5 117.5 36.5 C116.9 36.5 116.4 36 116.4 35.4 C116.4 34.8 116.9 34.3 117.5 34.3 Z"
+    fill="#F8F5F0"
+    opacity="0.6"
+  />
+
+  <!-- ========== SBM LETTERING ========== -->
+
+  <text
+    x="80"
+    y="58"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="22"
+    font-weight="600"
+    fill="#F8F5F0"
+    letter-spacing="0.18em"
+  >
+    SBM
+  </text>
+
+  <!-- Base line under SBM (foundation) -->
+  <rect x="45" y="62" width="70" height="2.4" rx="1.2" fill="#A3B18A" opacity="0.95" />
+</svg>
